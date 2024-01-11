@@ -4,7 +4,7 @@
       "sys": { "id": "1" },
       "fields": {
         "title": "Dofilah Metalic Jumpsuit-Fuchsia",
-        "price": $49.99,
+        "price": 49.99,
         "image": { "fields": { "file": { "url": "https://www.fashionnova.com/cdn/shop/files/12-13-23_S149_JP16549PD_Fuchsia_TH_SS_14-50-02_1463_CM_468x.jpg?v=1702934169" } } }
       }
     },
